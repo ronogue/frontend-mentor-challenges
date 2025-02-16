@@ -1,0 +1,15 @@
+:root {
+    --background-color: hsl(212, 45%, 89%);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
