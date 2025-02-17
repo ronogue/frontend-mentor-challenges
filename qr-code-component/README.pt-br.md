@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Frontend Mentor - Solução do Desafio: Perfil de Links Sociais
+# Frontend Mentor - Solução do Desafio: QR Code Component
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 
 ![Prévia do Projeto](assets/images/preview.jpg)

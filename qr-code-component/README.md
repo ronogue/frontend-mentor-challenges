@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Frontend Mentor - Social Links Profile Solution
+# Frontend Mentor - QR Code Component Solution
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
 This is my solution for the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
