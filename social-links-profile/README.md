@@ -12,6 +12,7 @@ This is my solution for the [Social Links Profile challenge on Frontend Mentor](
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Solution Screenshot](#solution-screenshot)
+  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -29,6 +30,11 @@ The challenge was to create a social links profile and match the design as close
 Here’s a preview of my solution:
 
 ![Solution Screenshot](assets/images/screenshot.png)
+
+### Links
+
+- [Solution URL](https://www.frontendmentor.io/solutions/solution-using-flexbox-Ok7gJjjzKx)
+- [Live Site URL](https://ronogue.github.io/frontend-mentor-challenges/social-links-profile/)
 
 ## My Process
 
