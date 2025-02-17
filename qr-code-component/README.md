@@ -31,6 +31,7 @@ Here’s a preview of my solution:
 
 ### Links
 
+- [Solution URL](https://www.frontendmentor.io/solutions/flexbox-solution-F9RIQ0cTaw)
 - [Live Site URL](https://ronogue.github.io/frontend-mentor-challenges/qr-code-component/)
 
 ## My Process
