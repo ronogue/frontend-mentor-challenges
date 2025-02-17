@@ -66,8 +66,6 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
 }
 
 #qr-code-title {
