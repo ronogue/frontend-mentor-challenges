@@ -44,7 +44,7 @@ body {
 .card {
     background-color: var(--white);
     border-radius: 1.25rem;
-    padding: 1rem;
+    padding: 1.5rem;
     width: 100%;
     max-width: 20.4375rem;
     display: flex;
@@ -88,18 +88,22 @@ body {
     background-color: var(--yellow);
     max-width: 5.125rem;
     border-radius: 0.25rem;
+    font-size: .875rem;
     font-weight: 800;
 }
 
 .content .publish-date,
 .content .publish-date time {
     font-weight: 600;
+    line-height: 1.5;
+    font-size: .875rem;
     color: var(--gray-950);
 }
 
 .card .content .title {
     font-size: 1.5rem;
     font-weight: 800;
+    line-height: 1.5;
     color: var(--gray-950);
     transition: color 300ms ease;
 }
