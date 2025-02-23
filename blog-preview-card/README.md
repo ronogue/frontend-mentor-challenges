@@ -35,6 +35,8 @@ Here’s a preview of my solution:
 
 ### Links
 
+- [Solution URL](https://www.frontendmentor.io/solutions/flexbox-solution-rd_-hv3WWd)
+  
 - [Live Site URL](https://ronogue.github.io/frontend-mentor-challenges/blog-preview-card/)
 
 ## My process
