@@ -34,6 +34,7 @@ Aqui está uma pré-visualização da minha solução:
 ![](./assets/images/screenshot.png)
 
 ### Links
+- [URL da Solução](https://www.frontendmentor.io/solutions/flexbox-solution-rd_-hv3WWd)
 
 - [URL do site ao vivo](https://ronogue.github.io/frontend-mentor-challenges/blog-preview-card/)
 
